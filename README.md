@@ -20,6 +20,14 @@ https://github.com/themihirmathur/Mihir-Qlik-Analysis-Of-Road-Safety-And-Acciden
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
+# Project Report
+
+[Qlik Project Report (SI-1188-1718528832).pdf](https://github.com/user-attachments/files/15859234/Qlik.Project.Report.SI-1188-1718528832.pdf)
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
 ## Minors Injured Across Country
 ![Screenshot 2024-06-16 at 7 36 41 PM](https://github.com/themihirmathur/Mihir-Qlik-Analysis-Of-Road-Safety-And-Accident-Patterns-In-India/assets/92594107/913558eb-2ee2-4a29-901e-f9d00b173264)
 
