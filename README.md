@@ -35,14 +35,14 @@ https://github.com/themihirmathur/Mihir-Qlik-Analysis-Of-Road-Safety-And-Acciden
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-## Accidents near Traffic Signals
+## Accidents near Traffic Signals (2nd Dashboard)
 ![Screenshot 2024-06-16 at 7 37 00 PM](https://github.com/themihirmathur/Mihir-Qlik-Analysis-Of-Road-Safety-And-Accident-Patterns-In-India/assets/92594107/ad4ea91a-dcad-456a-8b78-bf78e3469cce)
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-## Accidents in Police Controlled Areas
+## Accidents in Police Controlled Areas (1st Dashboard)
 ![Screenshot 2024-06-16 at 7 37 15 PM](https://github.com/themihirmathur/Mihir-Qlik-Analysis-Of-Road-Safety-And-Accident-Patterns-In-India/assets/92594107/22566228-09c4-40d3-bf9a-d1a2758c647b)
 
 <p align="left">
