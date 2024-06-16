@@ -10,6 +10,8 @@
 
 # Demo Video
 
+https://github.com/themihirmathur/Mihir-Qlik-Analysis-Of-Road-Safety-And-Accident-Patterns-In-India/assets/92594107/90b166fb-f3df-49d4-9eab-cb8c285309c2
+
 ## Minors Injured Across Country
 ![Screenshot 2024-06-16 at 7 36 41 PM](https://github.com/themihirmathur/Mihir-Qlik-Analysis-Of-Road-Safety-And-Accident-Patterns-In-India/assets/92594107/913558eb-2ee2-4a29-901e-f9d00b173264)
 
