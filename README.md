@@ -1,5 +1,7 @@
 # Qlik Analysis of Road Safety and Accident Patterns in India
 
+![Screenshot 2024-07-06 at 12 55 42 PM](https://github.com/themihirmathur/Mihir-Qlik-Analysis-Of-Road-Safety-And-Accident-Patterns-In-India/assets/92594107/71961a56-0bef-4ffe-b247-08d7ebf16942)
+
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
